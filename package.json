@@ -1,0 +1,14 @@
+{
+  "name": "cf-predix-client",
+  "version": "0.0.2",
+  "description": "fork of cf-client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cloudfoundry"
+  ],
+  "author": "poulpos",
+  "license": "ISC"
+}
